@@ -74,20 +74,17 @@ Erling må derfor se på uenigheter som oppstår når gruppen beveger seg fra fo
 **Steg 1:** *Etablere gruppestrategi med åpenkommunikasjon (“Strategi 1”)*
 
 Erling etablerer mange faste møtepunkter tidlig i prosjektet der det legges vekt på åpen kommunikasjon og god tid til analyse (Jacobsen, 2016, s.68)  
-
 Gruppemedlemmene inviteres til å drøfte på hvilke felt eller i hvilke faser de mener det er sannsynlig at det kan oppstå uenighet, uklarhet og konflikter (Jacobsen, 2016, s.68). 
 Gruppen analyserer årsakene og forsøker i fellesskap å komme frem til den beste løsningen gjennom konsensus eller kompromiss der det foreligger motstridende oppfatninger. Dette gir både høy effektivitet og høy tilfredshet (Jacobsen, 2016, s.68). 
 
 
 **Steg 2:** *Skille sak fra person under alle diskusjoner*
 Under alle drøftinger må Erling sørge for at man, så langt det mulig, skiller personkonflikt fra sakskonflikt (Jacobsen, 2016, s.66). 
-
 De følelsesmessige elementene i en personkonflikt må dempes, da disse vanskeliggjør en objektiv analyse av problemet og sperrer konstruktiv problemløsning (Jacobsen, 2016, s.66). 
 
 **Steg 3:** *Skape tidlig suksess med håndtering av sakskonflikter*
 
 Erling må sørge for at gruppen tar tak i sakskonflikter tidlig, før de har blitt manifeste (Jacobsen, 2016, s.66). 
-
 Når gruppen opplever at den mestrer å løse sakskonflikter tidlig, opparbeider den større aksept for å diskutere uenigheter åpent. Dette moderate nivået av sakskonflikter forbedrer gruppens effektivitet, kreativitet og tillit (Jacobsen, 2016, s.66). 
 
  
@@ -95,26 +92,49 @@ Når gruppen opplever at den mestrer å løse sakskonflikter tidlig, opparbeider
 **Steg 4:** *Forebygge og håndtere presset ved halvveispunktet*
 
 Erling må være særlig oppmerksom rundt halvveispunktet i prosjektet, hvor opplevelsen av at tiden begynner å bli knapp, skaper en intens psykologisk tilstand ut fra samspillet mellom tid igjen, tilgjengelige ressurser og ambisjoner (Jacobsen, 2016, s.70-71). 
-
 Han må aktivt forhindre at uenigheter i denne fasen unngås, utsettes eller skyves under teppet av frykt for å miste tid (Jacobsen, 2016, s70-71). 
 
 **Steg 5:** *Veksle til strukturerte lederbeslutninger ved korte tidsrammer (“Strategi 2”)* 
 
 Dersom tidsrammene blir for korte til å oppnå full konsensus gjennom “Strategi 1”, veksler Erling over til “Strategi 2” for å opprettholde fremdrift (Jacobsen, 2016, s.69)  
-
 Han opprettholder den åpne kommunikasjonen, men trer inn som mekler og kommer frem til kompromisser gjennom flertallsbeslutninger, avstemning og utarbeiding av mer eksplisitte regler og rutiner. Prioriteten her er å finne en fungerende løsning, selv om ikke alle medlemmer trives like godt med den (Jacobsen, 2016, s.69). 
 
 **Steg 6:** *Evaluere effekten på både oppgave og samhold* 
 
 Ved valg av tiltak underveis må Erling kontinuerlig vurdere hvordan håndteringen påvirker gruppens produksjon og hvordan den påvirker gruppens sosiale samhold. (Jacobsen, 2016, s.69)  
-
 Erling må unngå å havne i “Strategi 4” (reaktiv unngåelse, ad hoc-løsninger rettet mot enkeltpersoner uten analyse), da dette eskalerer konflikter og gir både lav effektivitet og lav tilfredshet (Jacobsen, 2016, s.69). 
+
+## Strategi for rekruttering og sammensetning
+
+Gruppen burde være sammensatt av flere ulike personer for å få et bredt mangfold og dekke alle oppgaver (gjennomføring, struktur, nye ideer og miljøbygging). Gjerne velg folk som også har noen felles verdier eller bakgrunn, slik at de trygges på hverandre raskere. Det er lettere å jobbe sammen hvis man er trygg på hverandre og har blitt litt kjent, så å bygge tillit tidlig er svært avgjørende. Tillit blir vanligvis definert som en psykologisk tilstand der mennesker som er avhengig av hverandre, stoler på hverandre mer (Jacobsen, 2016, s.85). Denne definisjonen kan tyde på at prosjektets sjanse for å lykke øker, hvis gruppen har tillit til hverandre. Tillit kan å bidra til at man er mindre redd for å prøve å feile. Uten å prøve og feile kommer ikke innovasjonen til å gå like raskt fremover (Kontochristos , 2023). Det er også viktig at personene er litt ulike så flere synspunkter kan komme frem. Det er mange fordeler med homogene team. Består en gruppe av ulike personer vil det naturligvis føre til ulike ideer både med tanke på løsninger og problemer. Derfor vil det være til fordel av at grupper er sammensatt av ulike rolle (Jacobsen, 2016, 33).
+
+Det finnes fire sentrale roller en gruppe burde bestå av. Disse er: produksjon, administrasjon, integrasjon og entreprenørskap (Jacobsen, 2016, s.33).
+
+Produksjon er gode fagpersoner som er flink på å ferdigstille det de har startet på (Jacobsen, 2016, s. 33). Fagpersoner er mindre sosial enn andre, men er veldig interessert i å jobbe med oppgaven og bli ferdig (Jacobsen, 2016, s. 33). Administrasjon er strukturerte mennesker og har oversikt over oppgaven. I en administrasjon sørger mennesker for system, orden og forutsigbarhet (Jacobsen, 2016, s. 33). Folkene i integrasjon er sosiale og passer på at relasjonene i gruppa fungerer godt, de er flinke på å inkludere alle i gruppa og sørger for at gruppa henger sammen som en sosial enhet (Jacobsen, 2016, s. 33). Entreprenørskap er personer som tenker nytt og stiller kritiske spørsmål, disse menneskene får gruppen til å stoppe opp og reflektere. (Jacobsen, 2016, s. 33).
+
+Mennesker fra de fire rollene er viktig å ha med i prosjektet så gruppen fungerer godt. En gruppe som har for eksempel bare to av de rollene vil ikke fungere like godt som en gruppe med alle fire forskjellige rollene.
 
 ## Sikring av god kommunikasjon 
 
 Virksomhetens hovedkommunikasjonskanal bør avklares så fort som mulig. Kanalen er den måten velger å frem budskapet sitt på (Gjøsund & Huseby, 2015, s. 69). Det vil være sentralt å gjøre de ansatte oppmerksom på hvilken informasjon som skal formidles gjennom e-post og hva som kan formidles gjennom mindre formelle chat-kanaler. Kommunikasjon kan defineres som å overføre informasjon, dele erfaringer og ta verbal eller ikke verbal kontakt for å skape mening for to eller flere mennesker (Hamachek 1982, Hurt mfl. 1978). Med utgangspunkt i denne definisjonen, ser vi at kommunikasjon er mer enn bare overføring av informasjon. Hvordan ansatte behandler og kommuniserer med hverandre er også betydelig. Teamet til Erling et heterogent tema med mye ulik fagbakgrunn. Heterogene grupper betyr at gruppa består av mennesker som er ulike (Paulsen & Hårberg, 2020). Det er naturlig at de er vant til å bruke ulike kommunikasjonsformer. Dette får frem viktigheten av å være tydelig på hvilke kanaler som brukes, så alle har muligheten til å bidra like mye og føle på samhold. Samhold er en viktig gruppeprosess som er en viktig variabel når det gjelder gruppens effektivitet (Jacobsen, 2016, s.78). Samhold i en gruppe kan defineres som en gjensidig sosial “tiltrekning”, eller i hvor stor grad medlemmene i en gruppe liker hverandre og føler seg hjemme i hverandres selvskap (Jacobsen, 2016, s.78).  
  
 Regelmessige statusmøter kan også bidra til å styrke samhold og videre øke effektiv kommunikasjon innad i teamet. Lederen kan ta opp hva de har gjort, hva som skal gjøres og ta opp eventuelle problemer. Under møter kan det være lurt å fordele tale tiden jevnt mellom gruppedeltakerne (Gjøsund & Huseby, 2015, s. 95). Erling kan oppmuntre til bruk av humor på en positiv måte. Humor bidrar ofte til å gjøre kommunikasjonen lettere (Gjøsund & Huseby, 2015, s. 95). Men det er viktig å legge merke til at humor også kan brukes negativt, derfor som leder har Erling også ansvar for å formidle krav og gjensidig respekt i gruppen. Det er mange ulike mennesker i teamet til Erling, derfor er det viktig å ha respekt for andres verdimessige standpunkter. Erling bør sørge for at diskusjonen foregår i slike former og innenfor slike rammer at den gir muligheten for å komme videre (Gjøsund & Huseby, 2015, s. 103). Ved å være åpen om tanker og beslutninger vil gruppen oppnå god kommunikasjon. God kommunikasjon er kjennetegnet av at den er åpen og tillitsfull (Gjøsund & Huseby, 2015, s. 63). Åpenhet har mange fordeler som Erling kan få nytte av. Det vil oppstå bedre og raskere spredning av kunnskap, utvikling av gjensidig tillit og stereotypiske oppfatninger av andre vil bli nedbygget (Jacobsen, 2016, s.83). For å legge til rette for åpen kommunikasjon er det viktig at Erling lager rom for inkludering, ulik kompetanse og empati (Jacobsen, 2016, s.82).  
+
+
+
+## Litteraturliste
+
+Paulsen, T. M., Hårberg, G. B. (2020, 9. mars). Å sette sammen grupper. NDLA. https://ndla.no/nb/r/kommunikasjon-og-samhandling-hs-hsf-vg1/a-sette-sammen-grupper/1b788a66ac 
+
+Gjøsund, P., & Huseby, R. (2015). To eller flere …: Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm Akademisk. 
+
+Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget 
+
+Kontochristos, I.L. (2023, 6. September). Uten trygghet tør teamet ikke å feile – og da stopper innovasjonen. Ledernytt. https://www.ledernytt.no/nyhetsarkiv/2023/q3/2023-09-06-uten-trygghet-tor-teamet-ikke-a-feile---og-da-stopper-innovasjonen 
+
+Årberg, G. B., Paulsen, T. M., & Olseng, E. T. (2026, 8. september). Konflikttrappa og konflikthåndtering. NDLA. 7feaf3ffe0 
+
+Flyvbjerg, B. (2021). Top Ten Behavioral Biases in Project Management: An Overview. Project Management Journal, 52(6), 531–546.   
 
 
 
