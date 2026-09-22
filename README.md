@@ -13,7 +13,7 @@ Det finnes fire sentrale roller en gruppe burde bestå av. Disse er: produksjon,
 Mennesker fra de fire rollene er viktig å ha med i prosjektet så gruppen fungerer godt. En gruppe som har for eksempel bare to av de rollene vil ikke fungere like godt som en gruppe med alle fire forskjellige rollene.  
 
 
-# Design av "det første møtet"
+## Design av "det første møtet"
 
 Det er viktig å ha i tankene at det første møtet legger grunnlaget for prosjektarbeidet. Det handler ikke bare om å fordele arbeidsoppgaver, men også om å etablere en felles forståelse av prosjektets mål, å skape tydelige forventninger og å utvikle relasjoner mellom medlemmene. Gode rammer øker sannsynligheten for at man får en prosjektgruppe som utvikler seg til et godt team (Jacobsen, 2016, s. 38). 
 
@@ -62,6 +62,53 @@ Etter pausen er det på agendaen lagt opp til roller og ansvarsfordeling, og mil
 Et prosjekt er kompleks, når man jobber med gruppeprosjekter må arbeidsoppgavene fordeles mellom de som skal utføre prosjektet. Det finnes forskjeller mellom grupper og individuelle prosjekter. Den viktigste forskjellen er at eventuelle uenigheter i et interorganisatorisk prosjekt ikke kan bringes inn i et hierarkisk system som en siste løsning (Jacobsen, 2016, s.41). Her vil det heller være naturlig å forholde seg til en kontrakt som er inngått mellom partene. I de formelle kontraktene formuleres så klart som mulig hva slags forventninger partene har til hverandre (Jacobsen, 2016, s.43). I prosjekter er det også viktig å ha et visst nivå av autonomi, dermed blir det også helt essensielt å være bevisst på hvordan kontrakter utformes (Jacobsen, 2016, s.43). Partnerskapskontrakten er en vanlig måte å tenke kontrakt på. Denne tradisjonelle måten omhandler i all hovedsak “jerntriangelet”: tid, kostnad og kvalitet (Jacobsen, 2016, s.43). En ulempe med denne type kontrakt er at den er svært lite fleksibel. Erling bør i praksis legge opp en mer fleksibel kontrakt, dette gjør at fremtidige prosjekter også får et større fleksibelt handlingsrom for endring underveis (Jacobsen, 2016, s.43). Kontrakten bør inneholde relasjonelle forhold. Dette fokuserer på hvordan de ulike relasjonene mellom de ulike aktørene i prosjektet skal vektlegges, hvordan man ønsker at de skal være, og hvordan disse skal organiseres (Jacobsen, 2016, s.44). Erling bør ikke prøve å erstatte tradisjonelle kontrakter, men heller vektlegge andre både produksjons- og relasjonskriterier. Empiriske studier tyder på at prosjekter med kontrakter som også definerer sosiale relasjoner mellom deltakerne, også opplever mindre konflikter, utsettelser og kostnadsoverskridelser enn prosjekter som i mindre grad definerer dette i kontraktene (Doloi, 2013).  
  
 Samarbeid mellom prosjekteiere og prosjektledere er også viktig. I den første fasen av et prosjekt er det viktig at det arbeides med å avklare hva slags forventninger som ligger mellom prosjektledelsen - det vil si både prosjekteiere og prosjektleder og basisorganisasjon (Jacobsen, 2016, s.41). De fleste prosjekter står overfor dual lojalitet. Dual lojalitet innebærer at prosjektdeltakerne hele tiden må forholde seg til prosjektleder og ledelse i egen avdeling eller organisasjon (Jacobsen, 2016, s.41). På bakgrunn av dette er det viktig med en avklaring av forholdet mellom prosjekteier og prosjektleder. Prosjekteier er den som skal ha den overordnede styringen av prosjektet (Jacobsen, 2016, s.41). Ofte opplever mange at prosjekteierrollen er uklar, som resultat kan det føre til at mange i basisorganisasjonen er usikker på hvem de skal forholde seg til - prosjekteier eller prosjektleder (Jacobsen, 2016, s.42). En løsning for Erling kan være å opprette et prosjektstyre eller styringsgruppe. Dette lønner seg hvis det finnes flere interesserte. En interessent kan defineres som en person eller en gruppe som påvirkes av prosjektet og som kan påvirke utfallet av prosjektarbeidet (Elias et al. 2002). Å ha et prosjektstyre kan øke effektiviteten i prosjektet, samtidig som styret i bedre stand kan avslutte prosjekter som helt klart utvikler seg feil, enn enestående prosjekteiere (Jacobsen, 2016, s.42). Erling bør ha regelmessige møter med prosjektstyre for å følge opp problemer og fremdrift. Likevel er det viktig å la seg merke at prosjektstyrer kan medvirke til å øke konfliktnivået i et prosjekt (Jacobsen, 2016, s.42).  
+
+## Proaktive mekanismer for konflikthåndtering  
+
+Siden Erling og gruppen hans befinner seg i forming-fasen, må han forstå at uenighet i en prosjektgruppe er helt normalt. “Uenighet og ulike oppfatninger er det normale når mennesker med begrenset kjennskap til hverandre skal utføre et arbeid sammen” (Jacobsen, 2016, s.57). Mennesker med ulik bakgrunn tolker informasjon gjennom sine egne kognitive filter og sin egen ballast, noe som gjør at samme beskjed kan oppfattes ulikt (Jacobsen, 2016, s.57).  I forming-fasen oppstår lett latente konflikter, altså skjulte konflikter, på grunn av uenighet kombinert med gjensidig avhengighet om ressurser, ansvar og autonomi (Jacobsen, 2016, s.60). Hvis disse ikke fanges opp tidlig, kan de utvikle seg til oppfattende, følte og til slutt danne konflikter der ord og handlinger skaper ødeleggende støy. Forsking viser at jo tidligere konflikter håndteres, desto mindre skader de (Jacobsen, 2016, s.59).  
+
+Erling må derfor se på uenigheter som oppstår når gruppen beveger seg fra forming-fasen som en nødvendig og positiv mulighet til å avklare forventninger, roller og relasjoner. Konflikttrappen er en modell utviklet av Friedrich Glasls. Modellen illustrerer hvordan en konflikt gjerne utvikler seg (Hårberg et al., 2026).  
+ 
+**Steg for steg prosess for konflikthåndtering**
+
+**Steg 1:** *Etablere gruppestrategi med åpenkommunikasjon (“Strategi 1”)*
+
+Erling etablerer mange faste møtepunkter tidlig i prosjektet der det legges vekt på åpen kommunikasjon og god tid til analyse (Jacobsen, 2016, s.68)  
+
+Gruppemedlemmene inviteres til å drøfte på hvilke felt eller i hvilke faser de mener det er sannsynlig at det kan oppstå uenighet, uklarhet og konflikter (Jacobsen, 2016, s.68). 
+Gruppen analyserer årsakene og forsøker i fellesskap å komme frem til den beste løsningen gjennom konsensus eller kompromiss der det foreligger motstridende oppfatninger. Dette gir både høy effektivitet og høy tilfredshet (Jacobsen, 2016, s.68). 
+
+
+**Steg 2:** *Skille sak fra person under alle diskusjoner*
+Under alle drøftinger må Erling sørge for at man, så langt det mulig, skiller personkonflikt fra sakskonflikt (Jacobsen, 2016, s.66). 
+
+De følelsesmessige elementene i en personkonflikt må dempes, da disse vanskeliggjør en objektiv analyse av problemet og sperrer konstruktiv problemløsning (Jacobsen, 2016, s.66). 
+
+**Steg 3:** *Skape tidlig suksess med håndtering av sakskonflikter*
+
+Erling må sørge for at gruppen tar tak i sakskonflikter tidlig, før de har blitt manifeste (Jacobsen, 2016, s.66). 
+
+Når gruppen opplever at den mestrer å løse sakskonflikter tidlig, opparbeider den større aksept for å diskutere uenigheter åpent. Dette moderate nivået av sakskonflikter forbedrer gruppens effektivitet, kreativitet og tillit (Jacobsen, 2016, s.66). 
+
+ 
+
+**Steg 4:** *Forebygge og håndtere presset ved halvveispunktet*
+
+Erling må være særlig oppmerksom rundt halvveispunktet i prosjektet, hvor opplevelsen av at tiden begynner å bli knapp, skaper en intens psykologisk tilstand ut fra samspillet mellom tid igjen, tilgjengelige ressurser og ambisjoner (Jacobsen, 2016, s.70-71). 
+
+Han må aktivt forhindre at uenigheter i denne fasen unngås, utsettes eller skyves under teppet av frykt for å miste tid (Jacobsen, 2016, s70-71). 
+
+**Steg 5:** *Veksle til strukturerte lederbeslutninger ved korte tidsrammer (“Strategi 2”)* 
+
+Dersom tidsrammene blir for korte til å oppnå full konsensus gjennom “Strategi 1”, veksler Erling over til “Strategi 2” for å opprettholde fremdrift (Jacobsen, 2016, s.69)  
+
+Han opprettholder den åpne kommunikasjonen, men trer inn som mekler og kommer frem til kompromisser gjennom flertallsbeslutninger, avstemning og utarbeiding av mer eksplisitte regler og rutiner. Prioriteten her er å finne en fungerende løsning, selv om ikke alle medlemmer trives like godt med den (Jacobsen, 2016, s.69). 
+
+**Steg 6:** *Evaluere effekten på både oppgave og samhold* 
+
+Ved valg av tiltak underveis må Erling kontinuerlig vurdere hvordan håndteringen påvirker gruppens produksjon og hvordan den påvirker gruppens sosiale samhold. (Jacobsen, 2016, s.69)  
+
+Erling må unngå å havne i “Strategi 4” (reaktiv unngåelse, ad hoc-løsninger rettet mot enkeltpersoner uten analyse), da dette eskalerer konflikter og gir både lav effektivitet og lav tilfredshet (Jacobsen, 2016, s.69). 
 
 ## Sikring av god kommunikasjon 
 
