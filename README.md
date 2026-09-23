@@ -23,32 +23,37 @@ Det er svært viktig for at et prosjekt skal lykkes å avklare tidlig hva slags 
 
 Forslag til agenda for prosjektets oppstartsmøte: 
 
-Tid 	        Aktivitet 	         Hensikt 
-09.00-09.15 	Velkommen og         Bli kjent
-                presentasjon         og etablere  
-                                     en god start
+Tid 09.00-09.15
+Aktivitet Velkommen og presentasjon
+Hensikt Bli kjent og etablere en god start
 
-09.15-09.30 	Presentasjon av      Skape felles
-                prosjektet 	         forståelse av
-                                     bakgrunn og formål 
+Tid 09.15-09.30
+Aktivitet Presentasjon av prosjektet
+Hensikt Skape felles forståelse av bakgrunn og formål
 
-09.30-10.00 	Diskusjon av         Avklare hva prosjektet
-                prosjektmål 	     skal oppnå 
+Tid 09.30-10.00
+Aktivitet Diskusjon av prosjektmål
+Hensikt Avklare hva prosjektet skal oppnå
 
-10.00-10.15 	Pause 	             Sosial kontakt
-                                     og uformell prat 
+Tid 10.00-10.15 
+Aktivitet Pause
+Hensikt Sosial kontakt og uformell prat
 
-10.15-10.45 	Roller og            Avklare hvem som har
-                ansvarsfordeling 	 ansvar for hva 
+Tid 10.15-10.45
+Aktivitet Roller og ansvarsfordeling
+Hensikt Avklare hvem som har ansvar for hva
 
-10.45-11.15 	Milepæler, delmål    Skape struktur og 
-                og tidsfrister 	     felles forventninger 
+Tid 10.45-11.15 
+Aktivitet Milepæler, delmål og tidsfrister
+Hensikt Skape struktur og felles forventninger
 
-11.15-11.45 	Risiko og            Identifisere mulige
-                utfordringer 	     problemer tidlig 
+Tid 11.15-11.45
+Aktivitet Risiko og utfordringer
+Hensikt Identifisere mulige problemer tidlig
 
-11.45-12.00 	Oppsummering og      Sikre felles forståelse
-                veien videre 	     og konkretisere neste sted 
+Tid 11.45-12.00
+Aktivitet Oppsummering og veien videre
+Hensikt Sikre felles forståelse og konkretisere neste sted 
 
 Under diskusjon av prosjektmål kl. 09.30 bør alle medlemmene delta. Etter dette punktet er det lagt inn pause og hensikten med denne er sosial kontakt og uformell prat. Selv om slike aktiviteter ikke nødvendigvis bidrar direkte til prosjektets leveranser, kan de ha stor betydning for teamets videre samarbeid. Det vil også gjøre at medlemmene får et slags eierskap til prosjektet, og dermed en større motivasjon for å lykkes (Jacobsen, 2016, s. 39).
 
