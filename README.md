@@ -109,15 +109,8 @@ Han opprettholder den åpne kommunikasjonen, men trer inn som mekler og kommer f
 Ved valg av tiltak underveis må Erling kontinuerlig vurdere hvordan håndteringen påvirker gruppens produksjon og hvordan den påvirker gruppens sosiale samhold. (Jacobsen, 2016, s.69)  
 Erling må unngå å havne i “Strategi 4” (reaktiv unngåelse, ad hoc-løsninger rettet mot enkeltpersoner uten analyse), da dette eskalerer konflikter og gir både lav effektivitet og lav tilfredshet (Jacobsen, 2016, s.69). 
 
-## Strategi for rekruttering og sammensetning
+ 
 
-Gruppen burde være sammensatt av flere ulike personer for å få et bredt mangfold og dekke alle oppgaver (gjennomføring, struktur, nye ideer og miljøbygging). Gjerne velg folk som også har noen felles verdier eller bakgrunn, slik at de trygges på hverandre raskere. Det er lettere å jobbe sammen hvis man er trygg på hverandre og har blitt litt kjent, så å bygge tillit tidlig er svært avgjørende. Tillit blir vanligvis definert som en psykologisk tilstand der mennesker som er avhengig av hverandre, stoler på hverandre mer (Jacobsen, 2016, s.85). Denne definisjonen kan tyde på at prosjektets sjanse for å lykke øker, hvis gruppen har tillit til hverandre. Tillit kan å bidra til at man er mindre redd for å prøve å feile. Uten å prøve og feile kommer ikke innovasjonen til å gå like raskt fremover (Kontochristos , 2023). Det er også viktig at personene er litt ulike så flere synspunkter kan komme frem. Det er mange fordeler med homogene team. Består en gruppe av ulike personer vil det naturligvis føre til ulike ideer både med tanke på løsninger og problemer. Derfor vil det være til fordel av at grupper er sammensatt av ulike rolle (Jacobsen, 2016, 33).
-
-Det finnes fire sentrale roller en gruppe burde bestå av. Disse er: produksjon, administrasjon, integrasjon og entreprenørskap (Jacobsen, 2016, s.33).
-
-Produksjon er gode fagpersoner som er flink på å ferdigstille det de har startet på (Jacobsen, 2016, s. 33). Fagpersoner er mindre sosial enn andre, men er veldig interessert i å jobbe med oppgaven og bli ferdig (Jacobsen, 2016, s. 33). Administrasjon er strukturerte mennesker og har oversikt over oppgaven. I en administrasjon sørger mennesker for system, orden og forutsigbarhet (Jacobsen, 2016, s. 33). Folkene i integrasjon er sosiale og passer på at relasjonene i gruppa fungerer godt, de er flinke på å inkludere alle i gruppa og sørger for at gruppa henger sammen som en sosial enhet (Jacobsen, 2016, s. 33). Entreprenørskap er personer som tenker nytt og stiller kritiske spørsmål, disse menneskene får gruppen til å stoppe opp og reflektere. (Jacobsen, 2016, s. 33).
-
-Mennesker fra de fire rollene er viktig å ha med i prosjektet så gruppen fungerer godt. En gruppe som har for eksempel bare to av de rollene vil ikke fungere like godt som en gruppe med alle fire forskjellige rollene.
 
 ## Sikring av god kommunikasjon 
 
