@@ -2,7 +2,7 @@
 
 
 
-# Strategi for rekruttering og sammensetning
+## Strategi for rekruttering og sammensetning
 
 Gruppen burde være sammensatt av flere ulike personer for å få et bredt mangfold og dekke alle oppgaver (gjennomføring, struktur, nye ideer og miljøbygging). Gjerne velg folk som også har noen felles verdier eller bakgrunn, slik at de trygges på hverandre raskere. Det er lettere å jobbe sammen hvis man er trygg på hverandre og har blitt litt kjent, så å bygge tillit tidlig er svært avgjørende. Tillit blir vanligvis definert som en psykologisk tilstand der mennesker som er avhengig av hverandre, stoler på hverandre mer (Jacobsen, 2016, s.85). Denne definisjonen kan tyde på at prosjektets sjanse for å lykke øker, hvis gruppen har tillit til hverandre. Tillit kan å bidra til at man er mindre redd for å prøve å feile. Uten å prøve og feile kommer ikke innovasjonen til å gå like raskt fremover (Kontochristos , 2023). Det er også viktig at personene er litt ulike så flere synspunkter kan komme frem. Det er mange fordeler med homogene team. Består en gruppe av ulike personer vil det naturligvis føre til ulike ideer både med tanke på løsninger og problemer. Derfor vil det være til fordel av at grupper er sammensatt av ulike rolle (Jacobsen, 2016, 33).  
 
